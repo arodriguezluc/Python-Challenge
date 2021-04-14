@@ -6,6 +6,7 @@
 
 * [1.1 Zen Of Data](./1/data-01-1-zen-of-data.pdf)
 * [1.2 Egad It's Excel](./2/1.2 Egad It's Excel.pdf)
+* [1.3 Excel Plotting](./3/1.3 Excel Plotting.pdf)
 
 
 
