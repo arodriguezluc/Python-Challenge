@@ -5,7 +5,7 @@
 ### Slide Shows
 
 * [2.1 Very VBA](./1/2.1 VBA Vibes.pdf)
-* [2.2 Vexing VBA]
+* [2.2 Vexing VBA](./2/2.2 Vexing VBA.pdf)
 * [2.3 Victorious VBA]
 
 
