@@ -17,6 +17,7 @@
 ## Units
 
 * [Excel](./01-Curriculum/01-Excel)
+* [VBA Scripting](./01-Curriculum/02-VBA-Scripting)
 
 
 
@@ -25,6 +26,10 @@
 Use [Bootcampspot](https://bootcampspot.com/coursework) to submit assignments and view due dates.
 
 * [HW 1: Excel](./02-Homework/01-Excel/Instructions) Due: 4/24
+
+* [HW 2: VBA](./02-Homework/02-VBA-Scripting/Instructions) Due: 5/1
+
+  
 
 
 
