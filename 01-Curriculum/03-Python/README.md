@@ -6,6 +6,10 @@
 
 * [3.1 Let's Begin Python](./1/3.1 Let's Begin Python.pdf)
 
+* [3.2 Reading, Writing, and Pyrithmetic](./2/3.2 Reading, Writing, and Pyrithmetic.pdf)
+
+  
+
 ### Homework Activities
 
 * [Homework Instructions](../../02-Homework/03-Python/Instructions/README.md)
