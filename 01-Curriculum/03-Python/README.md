@@ -8,6 +8,8 @@
 
 * [3.2 Reading, Writing, and Pyrithmetic](./2/3.2 Reading, Writing, and Pyrithmetic.pdf)
 
+* [3.3 Python Deeper Dive](./3/3.3 Python Deeper Dive.pdf)
+
   
 
 ### Homework Activities
