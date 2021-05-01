@@ -6,6 +6,8 @@
 
 * [4.1 Introduction to Pandas & Jupyter](./1/4.1 Introduction to Pandas & Jupyter.pdf)
 
+* [4.2 Exploring Pandas](./2/4.2 Exploring Pandas.pdf)
+
   
 
 ### Homework Activities
