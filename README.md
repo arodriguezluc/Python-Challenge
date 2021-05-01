@@ -19,6 +19,7 @@
 * [Excel](./01-Curriculum/01-Excel)
 * [VBA Scripting](./01-Curriculum/02-VBA-Scripting)
 * [Python](./01-Curriculum/02-Python)
+* [Pandas](./01-Curriculum/04-Pandas)
 
 
 
@@ -31,6 +32,8 @@ Use [Bootcampspot](https://bootcampspot.com/coursework) to submit assignments an
 * [HW 2: VBA](./02-Homework/02-VBA-Scripting/Instructions) Due: 5/1
 
 * [HW 3: Python](./02-Homework/03-Python/Instructions) Due: 5/8
+
+* [HW 4: Pandas ](./02-Homework/04-Pandas/Instructions) Due: 5/15
 
   
 
