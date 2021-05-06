@@ -5,7 +5,10 @@
 ### Lesson Plans
 
 * [5.1 Introduction to Matplotlib](./1/5.1 Introduction to Matplotlib.pdf)
-* 
+
+* [5.2 Plotting With Pandas](./2/5.2 Plotting With Pandas.pdf)
+
+  
 
 ### Homework Activities
 
