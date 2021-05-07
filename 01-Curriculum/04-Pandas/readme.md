@@ -8,6 +8,8 @@
 
 * [4.2 Exploring Pandas](./2/4.2 Exploring Pandas.pdf)
 
+* [4.3 Merging and Data Clean Project](./3/4.3 Merging and Data Clean Project.pdf)
+
   
 
 ### Homework Activities
