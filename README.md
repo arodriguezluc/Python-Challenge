@@ -20,6 +20,7 @@
 * [VBA Scripting](./01-Curriculum/02-VBA-Scripting)
 * [Python](./01-Curriculum/02-Python)
 * [Pandas](./01-Curriculum/04-Pandas)
+* [Matplotlib](./01-Curriculum/05-Matplotlib)
 
 
 
@@ -34,6 +35,8 @@ Use [Bootcampspot](https://bootcampspot.com/coursework) to submit assignments an
 * [HW 3: Python](./02-Homework/03-Python/Instructions) Due: 5/8
 
 * [HW 4: Pandas ](./02-Homework/04-Pandas/Instructions) Due: 5/15
+
+* [HW 5: Matplotlib](./02-Homework/05-Matplotlib/Instructions) Due: 5/22
 
   
 
