@@ -8,6 +8,8 @@
 
 * [5.2 Plotting With Pandas](./2/5.2 Plotting With Pandas.pdf)
 
+* [5.3 Introduction to Statistics](./3/5.3 Introduction to Statistics.pdf)
+
   
 
 ### Homework Activities
