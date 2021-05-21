@@ -8,6 +8,7 @@ This week we will cover the using third party APIs with Python. Students will pr
 
 * [6.1 APIs](./1/6.1 APIs.pdf)
 * [6.2 Working with Weather & City APIs](./2/6.2 Working with Weather & City APIs.pdf)
+* [6.3 Bank Deserts](./3/6.3 Bank Deserts.pdf)
 
 ### Homework Activities
 
